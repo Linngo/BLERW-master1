@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device.xml",
+        "source": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\src\\main\\res\\layout\\activity_device.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\msg_item.xml",
+        "source": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\src\\main\\res\\layout\\msg_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scan.xml",
+        "source": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\src\\main\\res\\layout\\activity_scan.xml"
+    }
+]

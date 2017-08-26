@@ -1,0 +1,239 @@
+[
+    {
+        "outputFile": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 44,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 44,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 44,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 44,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 42,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endColumn": 78,
+                    "endOffset": 376
+                },
+                "from": {
+                    "file": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 78,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 381,
+                    "endColumn": 64,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 64,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 73,
+                    "endOffset": 515
+                },
+                "from": {
+                    "file": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 73,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 520,
+                    "endColumn": 65,
+                    "endOffset": 581
+                },
+                "from": {
+                    "file": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 444,
+                        "endColumn": 65,
+                        "endOffset": 505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 586,
+                    "endColumn": 51,
+                    "endOffset": 633
+                },
+                "from": {
+                    "file": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 51,
+                        "endOffset": 557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 638,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 2,
+                        "endColumn": 12,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 928
+                },
+                "from": {
+                    "file": "D:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 343
+                    }
+                }
+            }
+        ]
+    }
+]

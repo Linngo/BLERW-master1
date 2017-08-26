@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_32442c41c514f0cda98b1d9c5b5a39c555347a76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_8ce97278ea70e3adf4f798f726b45b30fb0a9cdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_3be09a95778de131c9f93d8e34d5cfa64c116dc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="215edccff69997638b20a8f263925c419d766fee">
+        <dex dex="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_03d9a2b32734129027ed3e836e11b00e7c0120d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_fc7ca5af8e0fdd05959e5776eff745cffb861398\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="19db8799517d770ad45243fc71ef67ea9317f592">
+        <dex dex="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c78b3ab2365c9d9ea26a093eb28439329d36da56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_feb2126c997e8039690d0fa038c9bdfbd7adf89d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_3d7878e460a9e08d07b6c013175f5c108a16526a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f646c8bac553e819a23f408bc7e8c0ee1f62266b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_88c7e7dc956c05b05bf7003f0e8033956ad76c5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_9f2add4bdecbf6a9629dba6cc47811bb2f8b6e9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_30fdd70a3847d2b1cb52a6409cb922b55e31cc7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_7e8107467162ab369bc27250dc8e749ffc61240a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\Users\Administrator\Desktop\BLERW-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_a4201758416abf7f3024b14b4372fd31eb94fec7\classes.dex" />
+    </item>
+
+</items>

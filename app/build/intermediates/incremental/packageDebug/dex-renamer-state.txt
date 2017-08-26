@@ -1,0 +1,7 @@
+#Thu Oct 27 21:46:01 CST 2016
+base.0=D\:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c78b3ab2365c9d9ea26a093eb28439329d36da56
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_03d9a2b32734129027ed3e836e11b00e7c0120d2\\classes.dex
+base.1=D\:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_03d9a2b32734129027ed3e836e11b00e7c0120d2
+file.0=D\:\\Users\\Administrator\\Desktop\\BLERW-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c78b3ab2365c9d9ea26a093eb28439329d36da56\\classes.dex
